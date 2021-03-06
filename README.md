@@ -62,7 +62,7 @@ I'm Tuyen Pham a Full Stack Web Developer. I spend most of time coding outstandi
 
 <br >
 
-I am recently graduated of Temple University with a Bachelor's degree in Computer science and a minor in Mathematics, with inspiration to become a Full Stack Developer. I recently joined InstaHub as a Web Development intern, specializing in web application development. Prior to graduating, I worked as an undergraduate research assistant to build an AWS lambda web application with Professor Xiaojang Du.
+I am recently graduated of Temple University with a Bachelor's degree in Computer science and a minor in Mathematics, with inspiration to become a Full Stack Developer. During university time, I worked as an undergraduate research assistant to build an AWS lambda web application with Professor Xiaojang Du. Prior to graduating until now, I joined InstaHub as a Web Development intern, specializing in web application development, worked both front-end and back-end in React, Node, Express, MySQL, AWS.
 
 I have a great passion for photoshop and have taken a class Designing at Temple University, focusing on Adobe Illustrator, Adobe Photoshop, and Adobe Indesign. Having experience in photoshop, I plan to make photoshop editing production my long-term hobby and (hopefully) a secondary job. 
 
