@@ -1,6 +1,6 @@
-## Hi I'm Tuyen Pham <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi, I'm Tuyen Pham <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Tuyen Pham a Full Stack Web Developer. I spend most of time coding outstanding projects, passionate about web applications and also dabble in mobile technologies.
+I'm Tuyen Pham, a Full Stack Web Developer. I spend most of time coding outstanding projects, passionate about web applications and also dabble in mobile technologies.
 
 :mailbox: Reach me out!
 
@@ -9,7 +9,7 @@ I'm Tuyen Pham a Full Stack Web Developer. I spend most of time coding outstandi
 <!-- TODO: Introduction -->
 
 - 🔭 I’m currently working at @InstaHub as a Software Developer Intern
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- :computer: Most used line of code `git commit -m "coder.thinker.designer"`
 - 🤔 I’m seeking for a full-time position as a Software Developer/ Web Developer/ Full Stack Developer
 - 📫 How to reach me: tuyen.phk@gmail.com.
 - 😄 Pronouns: Tuyen
@@ -50,8 +50,8 @@ I'm Tuyen Pham a Full Stack Web Developer. I spend most of time coding outstandi
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](document/Tuyen_Pham_Resume.pdf)
-- :notebook: [My Cover](document/CoverLetter_TuyenPham.docx)
+- :paperclip: [My Resume/CV](document/TuyenPham_Resume.pdf)
+- :notebook: [My Cover Letter](document/CoverLetter_TuyenPham.docx)
 - :email: tuyen.phk@gmail.com
 
 
