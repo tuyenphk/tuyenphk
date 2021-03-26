@@ -4,11 +4,11 @@ I'm Tuyen Pham, a Full Stack Web Developer. I spend most of time coding outstand
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-TPham-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuyen-pham-72246b158/) [![Mail Badge](https://img.shields.io/badge/-TPham-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tuyen.phk@gmail.com) [![Portfolio Badge](https://img.shields.io/badge/portfolio-TPham-brightgreen)](https://tpham-portfolio.netlify.app/)
+[![Linkedin Badge](https://img.shields.io/badge/-TPham-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuyen-pham-72246b158/) [![Mail Badge](https://img.shields.io/badge/-TPham-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tuyen.phk@gmail.com) [![Portfolio Badge](https://img.shields.io/badge/portfolio-TPham-brightgreen)](https://tpham.netlify.app/)
 
 <!-- TODO: Introduction -->
 
-- 🔭 I’m currently working at @InstaHub as a Software Developer Intern
+- 🔭 I’m currently working at @InstaHub as a Software Developer
 - :computer: Most used line of code `git commit -m "coder.thinker.designer"`
 - 🤔 I’m seeking for a full-time position as a Software Developer/ Web Developer/ Full Stack Developer
 - 📫 How to reach me: tuyen.phk@gmail.com.
