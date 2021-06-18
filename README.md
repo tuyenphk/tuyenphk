@@ -8,7 +8,7 @@ I'm Tuyen Pham, a Full Stack Web Developer. I spend most of time coding outstand
 
 <!-- TODO: Introduction -->
 
-- 🔭 I’m currently working at @InstaHub as a Software Developer
+- 🔭 I’m currently working at @Boiron INC as a Junior Web Developer
 - :computer: Most used line of code `git commit -m "coder.thinker.designer"`
 - 🤔 I’m seeking for a full-time position as a Software Developer/ Web Developer/ Full Stack Developer
 - 📫 How to reach me: tuyen.phk@gmail.com.
